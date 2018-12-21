@@ -5,7 +5,9 @@ A dual viewer for Lighthouse reports
 ## Readings
 
 [A Complete Guide to Grid][1]
+
 [Firefox DevTools: Introduction to CSS Grid][2]
+
 [Responsive Iframes with One Great CSS Trick][3]
 
 [1]: https://css-tricks.com/snippets/css/complete-guide-grid/
